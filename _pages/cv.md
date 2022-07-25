@@ -11,17 +11,16 @@ redirect_from:
 
 Education
 ======
-- 2019.10-        **Primate Research Institute, Kyoto University**                                  
-	Ph.D. Candidate, Biological sciences
-
-- 2017.10-2019.09 **Primate Research Institute, Kyoto University**                                  
-	Master of Science, Biological sciences  
-
-- 2015.09-2016.08 **Primate Research Institute, Kyoto University**                                  
-	Exchange student
-
-- 2012.09-2016.06 **Sun Yat-sen University**                                                                       
-	Bachelor of Science, Biological sciences
+| | | 
+|:-|:-|
+| 2019.10-2022.09 | **Primate Research Institute, Kyoto University** |
+| | Ph.D. Candidate, Biological sciences |
+| 2017.10-2019.09 | **Primate Research Institute, Kyoto University** |                                 
+| | Master of Science, Biological sciences |
+| 2015.09-2016.08 | **Primate Research Institute, Kyoto University** |
+| | Exchange student |
+| 2012.09-2016.06 | **Sun Yat-sen University** |
+| | Bachelor of Science, Biological sciences | 
 
 
 
@@ -36,7 +35,7 @@ Work experience
 
 - 2021.04-2022.03 **Teaching assistant**                                                                                         
 	CICASP Seminar in Science Communication and the International Primatology Lecture Series, Inuyama campus, Kyoto University
-  
+
 - 2019.08-2019.12 **Teaching assistant**                                                                                        
 	Interdisciplinary Seminar on Primatology 2019, Inuyama campus, Kyoto University
 
