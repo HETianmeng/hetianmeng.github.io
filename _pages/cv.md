@@ -67,14 +67,43 @@ Education
 
 Work experience
 ======
-| | | 
-|:-|:-|
-| 2021.08-2021.12 | **Teaching assistant** |                                                                                        
-| | Interdisciplinary Seminar on Primatology 2021, Inuyama campus, Kyoto University |
-| 2021.04-2022.03 | **Teaching assistant** |                                                          
-| | CICASP Seminar in Science Communication and the International Primatology Lecture Series, Inuyama campus, Kyoto University | 
-| 2019.08-2019.12 | **Teaching assistant** |                           
-| | Interdisciplinary Seminar on Primatology 2019, Inuyama campus, Kyoto University |
+<table>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2021.08-2021.12</td>
+        <td>**Teaching assistant**</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Interdisciplinary Seminar on Primatology 2021, Inuyama campus, Kyoto University</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2021.04-2022.03</td>
+        <td>**Teaching assistant**</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>CICASP Seminar in Science Communication and the International Primatology Lecture Series, Inuyama campus, Kyoto University</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2019.08-2019.12</td>
+        <td>**Teaching assistant**</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Interdisciplinary Seminar on Primatology 2019, Inuyama campus, Kyoto University</td>
+        <td></td>
+    </tr>
+</table>
 
 
 
@@ -82,14 +111,36 @@ Work experience
   
 Awards
 ======
-| | | 
-|:-|:-|
-| 2022.03 | Best English Presentation Award. The 69th Annual Meeting of the Ecological Society of Japan |
-| 2021.10-2022.09 | Support for Pioneering Graduate Students presented by the Kyoto University Graduate Division |
-| 2021.03 | English Presentation Audience Award. The 68th Annual Meeting of the Ecological Society of Japan |
-| 2020.01 | Symposium of Integrative Biology: Oversea Travel Felloship for Young Researchers |
-| 2020-2021 | Scholarship of Graduate School of Science Fund (Kyoto University) |
-| 2015-2016 | The Sumitomo Corporation Scholarship |
+<table>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2022.03</td>
+        <td>Best English Presentation Award. The 69th Annual Meeting of the Ecological Society of Japan</td>
+    </tr>
+    <tr>
+        <td>2021.10-2022.09</td>
+        <td>Support for Pioneering Graduate Students presented by the Kyoto University Graduate Division</td>
+    </tr>
+    <tr>
+        <td>2021.03</td>
+        <td>English Presentation Audience Award. The 68th Annual Meeting of the Ecological Society of Japan</td>
+    </tr>
+    <tr>
+        <td>2020.01</td>
+        <td>Symposium of Integrative Biology: Oversea Travel Felloship for Young Researchers</td>
+    </tr>
+    <tr>
+        <td>2020-2021</td>
+        <td>Scholarship of Graduate School of Science Fund (Kyoto University)</td>
+    </tr>
+    <tr>
+        <td>2015-2016</td>
+        <td>The Sumitomo Corporation Scholarship</td>
+    </tr>
+</table>
 
 
 Publications
