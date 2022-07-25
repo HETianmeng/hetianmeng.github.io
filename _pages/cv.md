@@ -11,16 +11,53 @@ redirect_from:
 
 Education
 ======
-| | | 
-|:-|:-|
-| 2019.10-2022.09 | **Primate Research Institute, Kyoto University** |
-| | Ph.D. Candidate, Biological sciences |
-| 2017.10-2019.09 | **Primate Research Institute, Kyoto University** |                                 
-| | Master of Science, Biological sciences |
-| 2015.09-2016.08 | **Primate Research Institute, Kyoto University** |
-| | Exchange student |
-| 2012.09-2016.06 | **Sun Yat-sen University** |
-| | Bachelor of Science, Biological sciences | 
+<table>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2019.10-2022.09</td>
+        <td>**Primate Research Institute, Kyoto University**</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Ph.D. Candidate, Biological sciences</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2017.10-2019.09</td>
+        <td>**Primate Research Institute, Kyoto University**</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Master of Science, Biological sciences</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2015.09-2016.08</td>
+        <td>**Primate Research Institute, Kyoto University**</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Exchange student</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2012.09-2016.06</td>
+        <td>**Sun Yat-sen University**</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Bachelor of Science, Biological sciences</td>
+        <td></td>
+    </tr>
+</table>
 
 
 
