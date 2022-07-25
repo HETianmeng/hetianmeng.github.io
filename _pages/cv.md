@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-<table border="0">
+<table>
     <tr>
         <td>2019.10-2022.09</td>
-        <td>**Primate Research Institute, Kyoto University**</td>
+        <td>Primate Research Institute, Kyoto University</td>
         <td></td>
     </tr>
     <tr>
@@ -24,7 +24,7 @@ Education
     </tr>
     <tr>
         <td>2017.10-2019.09</td>
-        <td>**Primate Research Institute, Kyoto University**</td>
+        <td>Primate Research Institute, Kyoto University</td>
         <td></td>
     </tr>
     <tr>
@@ -34,7 +34,7 @@ Education
     </tr>
     <tr>
         <td>2015.09-2016.08</td>
-        <td>**Primate Research Institute, Kyoto University**</td>
+        <td>Primate Research Institute, Kyoto University</td>
         <td></td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@ Education
     </tr>
     <tr>
         <td>2012.09-2016.06</td>
-        <td>**Sun Yat-sen University**</td>
+        <td>Sun Yat-sen University</td>
         <td></td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ Work experience
 <table border="0">
     <tr>
         <td>2021.08-2021.12</td>
-        <td>**Teaching assistant**</td>
+        <td>Teaching assistant</td>
         <td></td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@ Work experience
     </tr>
     <tr>
         <td>2021.04-2022.03</td>
-        <td>**Teaching assistant**</td>
+        <td>Teaching assistant</td>
         <td></td>
     </tr>
     <tr>
@@ -85,7 +85,7 @@ Work experience
     </tr>
     <tr>
         <td>2019.08-2019.12</td>
-        <td>**Teaching assistant**</td>
+        <td>Teaching assistant</td>
         <td></td>
     </tr>
     <tr>
