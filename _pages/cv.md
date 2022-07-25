@@ -13,11 +13,6 @@ Education
 ======
 <table border="0">
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td>2019.10-2022.09</td>
         <td>**Primate Research Institute, Kyoto University**</td>
         <td></td>
@@ -67,12 +62,7 @@ Education
 
 Work experience
 ======
-<table>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
+<table border="0">
     <tr>
         <td>2021.08-2021.12</td>
         <td>**Teaching assistant**</td>
@@ -111,11 +101,7 @@ Work experience
   
 Awards
 ======
-<table>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
+<table border="0">
     <tr>
         <td>2022.03</td>
         <td>Best English Presentation Award. The 69th Annual Meeting of the Ecological Society of Japan</td>
