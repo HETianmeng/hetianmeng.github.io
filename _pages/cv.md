@@ -11,28 +11,38 @@ redirect_from:
 
 Education
 ======
-- **Sun Yat-sen University**                                                                       2012.9-2016.6
-	- Bachelor of Science, Biological sciences
+- 2019.10-        **Primate Research Institute, Kyoto University**                                  
+	Ph.D. Candidate, Biological sciences
 
-- **Primate Research Institute, Kyoto University**                                  2015.9-2016.8
-	- Exchange student
+- 2017.10-2019.09 **Primate Research Institute, Kyoto University**                                  
+	Master of Science, Biological sciences  
 
-- **Primate Research Institute, Kyoto University**                                  2017.10-2019.9
-	- Master of Science, Biological sciences
+- 2015.09-2016.08 **Primate Research Institute, Kyoto University**                                  
+	Exchange student
 
-- **Primate Research Institute, Kyoto University**                                  2019.10-
-	- Ph.D. Candidate, Biological sciences
+- 2012.09-2016.06 **Sun Yat-sen University**                                                                       
+	Bachelor of Science, Biological sciences
+
+
+
+
+
+
 
 Work experience
 ======
-- **Teaching assistant**                                                                                             2019.8-2019.12
-	- Interdisciplinary Seminar on Primatology 2019, Inuyama campus, Kyoto University
+- 2021.08-2021.12 **Teaching assistant**                                                                                         
+	Interdisciplinary Seminar on Primatology 2021, Inuyama campus, Kyoto University
 
-- **Teaching assistant**                                                                                               2021.4-2022.3
-	- CICASP Seminar in Science Communication and the International Primatology Lecture Series, Inuyama campus, Kyoto University
+- 2021.04-2022.03 **Teaching assistant**                                                                                         
+	CICASP Seminar in Science Communication and the International Primatology Lecture Series, Inuyama campus, Kyoto University
+  
+- 2019.08-2019.12 **Teaching assistant**                                                                                        
+	Interdisciplinary Seminar on Primatology 2019, Inuyama campus, Kyoto University
 
-- **Teaching assistant**                                                                                             2021.8-2021.12
-	- Interdisciplinary Seminar on Primatology 2021, Inuyama campus, Kyoto University
+
+
+
   
 Awards
 ======
