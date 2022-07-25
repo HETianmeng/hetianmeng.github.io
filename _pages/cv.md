@@ -9,6 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px white;
+   height: 15px;
+   font-size: 11pt;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
 Education
 ======
 <table>
