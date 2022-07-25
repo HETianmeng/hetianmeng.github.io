@@ -28,8 +28,8 @@ Education
 ======
 <table>
     <tr>
-        <td>2019.10-2022.09</td>
-        <td>Primate Research Institute, Kyoto University</td>
+        <td style="width: 200px;">2019.10-2022.09</td>
+        <td><strong>Primate Research Institute, Kyoto University</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -39,7 +39,7 @@ Education
     </tr>
     <tr>
         <td>2017.10-2019.09</td>
-        <td>Primate Research Institute, Kyoto University</td>
+        <td><strong>Primate Research Institute, Kyoto University</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@ Education
     </tr>
     <tr>
         <td>2015.09-2016.08</td>
-        <td>Primate Research Institute, Kyoto University</td>
+        <td><strong>Primate Research Institute, Kyoto University</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@ Education
     </tr>
     <tr>
         <td>2012.09-2016.06</td>
-        <td>Sun Yat-sen University</td>
+        <td><strong>Sun Yat-sen University</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -77,10 +77,10 @@ Education
 
 Work experience
 ======
-<table border="0">
+<table>
     <tr>
-        <td>2021.08-2021.12</td>
-        <td>Teaching assistant</td>
+        <td style="width: 200px;">2021.08-2021.12</td>
+        <td><strong>Teaching assistant</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -90,7 +90,7 @@ Work experience
     </tr>
     <tr>
         <td>2021.04-2022.03</td>
-        <td>Teaching assistant</td>
+        <td><strong>Teaching assistant</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -100,7 +100,7 @@ Work experience
     </tr>
     <tr>
         <td>2019.08-2019.12</td>
-        <td>Teaching assistant</td>
+        <td><strong>Teaching assistant</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -116,9 +116,9 @@ Work experience
   
 Awards
 ======
-<table border="0">
+<table>
     <tr>
-        <td>2022.03</td>
+        <td style="width: 200px;">2022.03</td>
         <td>Best English Presentation Award. The 69th Annual Meeting of the Ecological Society of Japan</td>
     </tr>
     <tr>
