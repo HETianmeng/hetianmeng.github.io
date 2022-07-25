@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-<table>
+<table border="0">
     <tr>
         <td></td>
         <td></td>
