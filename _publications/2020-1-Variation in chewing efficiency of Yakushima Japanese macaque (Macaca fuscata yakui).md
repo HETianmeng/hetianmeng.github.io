@@ -1,9 +1,9 @@
 ---
 title: "Variation in chewing efficiency of Yakushima Japanese macaque (Macaca fuscata yakui)"
 collection: publications
-permalink: /publication/2020-1-1-Variation in chewing efficiency of Yakushima Japanese macaque (Macaca fuscata yakui)
+permalink: /publication/2020-1-Variation in chewing efficiency of Yakushima Japanese macaque (Macaca fuscata yakui)
 excerpt: 'Objectives: Chewing efficiency plays an important role in the survival and distribution of primates. Yet, little is known about the intra-specific variation of chewing efficiency. The purpose of this study is to report the pattern of seasonal and regional variation in chewing efficiency among Yakushima Japanese macaques (Macaca fuscata yakui). Materials and Methods: Fecal samples of Yakushima Japanese macaques were collected from lowland, highland and summit areas in Yakushima between July 2015 and March 2016 (n = 236). Using sieving analysis, we compared fecal particle size (dMEAN) and proportion of finest particles p(0) between different geographical areas and seasons. Results: Seasonally, in the lowland zone, there was a non-significant decrease in dMEAN during spring, while p(0) was significantly higher during summer than it was during winter and spring. Regionally, dMEAN was higher in the summit zone than it was in other areas during autumn, while p(0) was also higher in the summit zone. Conclusions: While seasonal variation in dMEAN can be explained by the reported difference in the proportions of food categories in diet between seasons, its influence is mitigated, possibly by the selective feeding of less mechanically challenging parts in each category. Regional variation in dMEAN and p(0) may be the results of bamboo consumption in this area. Combining our data with studies that focus on seasonal and regional variations of food properties or gut microbes might provide a better understanding of the relation between diet, chewing and digestion in Yakushima macaques.'
-date: 2020-1-1
+date: 2020-1
 venue: 'American Journal of Physical Anthropology'
 paperurl: 'https://doi.org/10.1002/ajpa.23955'
 citation: 'He, T., Honda, T., Kurihara, Y., &amp; Thiery, G. (2020). Variation in chewing efficiency of Yakushima Japanese macaque (<i>Macaca fuscata yakui</i>). American Journal of Physical Anthropology, 171(1), 110???C119.'
