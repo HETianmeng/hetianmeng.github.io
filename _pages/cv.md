@@ -79,7 +79,7 @@ Work experience
 ======
 <table>
     <tr>
-        <td style="width: 400px;">2021.08-2021.12</td>
+        <td style="width: 400px; word-wrap: normal;">2021.08-2021.12</td>
         <td><strong>Teaching assistant</strong></td>
         <td></td>
     </tr>
