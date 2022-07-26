@@ -15,3 +15,5 @@ Primates are important herbivores in many ecosystems. They are not only influenc
 - Ecosystem engineering in primates
 - Japanese macaques and white-headed langurs
 - Behavior and cognition of primates
+
+<img src='/images/moneky-1.png'>
