@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Science Popularization"
+permalink: /popsci/
 author_profile: true
 ---
 
