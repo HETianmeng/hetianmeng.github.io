@@ -5,6 +5,6 @@ permalink: /popsci/
 author_profile: true
 ---
 
-{% for post in site.publications reversed %}
+{% for post in site.popsci reversed %}
   {% include archive-single.html %}
 {% endfor %}
