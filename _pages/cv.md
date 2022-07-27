@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href='/images/cv_he.pdf'>Download the PDF version</a>
+
 <style>
 table {
     border-collapse: collapse;
