@@ -253,6 +253,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _popsci
+  - scope:
+      path: ""
+      type: popsci
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
 
 # Sass/SCSS
 sass:
