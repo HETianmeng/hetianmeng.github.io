@@ -5,8 +5,6 @@ permalink: /popsci/chewing-1
 date: 2021/7/1
 venue: 'CICASP, Kyoto University'
 collection: popsci
-header:
-  overlay_image: /images/yaku-3.JPG
 ---
 
 
