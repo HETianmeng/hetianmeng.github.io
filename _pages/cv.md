@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download <a href='/images/cv_he.pdf' target="_blank"><img border="0" src='/images/pdf-ico.png' alt="cv_he.pdf" width="32" height="32"></a>
+<a href='/images/cv_he.pdf' target="_blank"><img border="0" src='/images/pdf-ico.png' alt="cv_he.pdf" width="32" height="32"></a>
 
 <style>
 table {

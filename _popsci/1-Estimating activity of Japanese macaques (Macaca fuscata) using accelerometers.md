@@ -1,7 +1,7 @@
 ---
 title: "Estimating activity of Japanese macaques (Macaca fuscata) using accelerometers"
-collection: publications
-permalink: /publication/2017/10/1-Estimating activity of Japanese macaques (Macaca fuscata) using accelerometers
+collection: popsci
+permalink: /popsci/2017/10/1-Estimating activity of Japanese macaques (Macaca fuscata) using accelerometers
 excerpt: 'Accelerometers have been used to study both terrestrial and aquatic wildlife, mainly for mammal and bird species. In terrestrial mammals, there is a bias toward ungulates and carnivores, with fewer studies on nonhuman primates. In this study, we tested the use of accelerometers for studying the activity of Japanese macaques (Macaca fuscata). We modeled the activity of a male and a female subject by matching continuous focal observations from video recordings to sensor parameters derived from collar-mounted accelerometers. Models achieved classification performance (AUC) of greater than 90% for both subjects, with similar results when subjects were cross-validated. Accelerometer-based estimates of activity had comparable accuracies to estimates from instantaneous sampling at 1?min and 5?min intervals. We further demonstrated the use of model estimates for analyzing circadian rhythm and night time activity of M. fuscata. Our results add support to the feasibility of using accelerometers for studying activity of nonhuman primates. We discussed the limitations, benefits and potential applications of remote-sensing technology like accelerometers for advancing primalotogical studies.'
 date: 2017/10/1
 venue: 'American Journal of Primatology'
