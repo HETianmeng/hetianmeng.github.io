@@ -7,6 +7,7 @@ venue: 'CICASP, Kyoto University'
 collection: popsci
 ---
 
-A plain explanation of my works in graduate school. (Click the figure to see the article on CICASP website)
-<a href='https://www.cicasp.pri.kyoto-u.ac.jp/news/articles/chewing-how-macaques-chew' target="_blank"><img border="0" src='/images/chew-1.png' alt="Chewing on How Macaques Chew" width = 200></a>
+A plain explanation of my works in graduate school. (Click the figure to see the article on the CICASP website)
+
+<a href='https://www.cicasp.pri.kyoto-u.ac.jp/news/articles/chewing-how-macaques-chew' target="_blank"><img border="0" src='/images/chew-1.png' alt="Chewing on How Macaques Chew" width = 600></a>
 
