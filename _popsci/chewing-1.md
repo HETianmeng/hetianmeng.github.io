@@ -1,6 +1,6 @@
 ---
 title: "Chewing on How Macaques Chew"
-excerpt: "A plain explanation of my works in graduate school.<br/><img src='/images/yaku-3.JPG'>"
+excerpt: "A plain explanation of my works in graduate school.<br/><img src='/images/yaku-3.JPG' width = 200>"
 permalink: /popsci/chewing-1
 date: 2021/7/1
 venue: 'CICASP, Kyoto University'
