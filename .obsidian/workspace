@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "185d95b85ec5710a",
+        "id": "6321f4475ee480a7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_pages/cv.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/cv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/cv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_pages/cv.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,8 +120,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "185d95b85ec5710a",
+  "active": "6321f4475ee480a7",
   "lastOpenFiles": [
+    "_pages/cv.md",
     "_pages/about.md",
     "_pages/publications.md",
     "_pages/non-menu-page.md",
